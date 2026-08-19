@@ -46,6 +46,7 @@ git log                                # real history, real dates
 - [`brainiac`](https://github.com/ikouchiha47/graveyard/tree/brainiac) — originally [`brainiac`](https://github.com/ikouchiha47/brainiac)
 - [`scratchpad`](https://github.com/ikouchiha47/graveyard/tree/scratchpad) — originally [`scratchpad`](https://github.com/ikouchiha47/scratchpad)
 - [`formfactor`](https://github.com/ikouchiha47/graveyard/tree/formfactor) — originally [`formfactor`](https://github.com/ikouchiha47/formfactor)
+- [`fbrowser`](https://github.com/ikouchiha47/graveyard/tree/fbrowser) — originally [`fbrowser`](https://github.com/ikouchiha47/fbrowser)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
