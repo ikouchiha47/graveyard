@@ -44,6 +44,7 @@ git log                                # real history, real dates
 - [`curelife`](https://github.com/ikouchiha47/graveyard/tree/curelife) — originally [`curelife`](https://github.com/ikouchiha47/curelife)
 - [`desktopfiles`](https://github.com/ikouchiha47/graveyard/tree/desktopfiles) — originally [`desktopfiles`](https://github.com/ikouchiha47/desktopfiles)
 - [`brainiac`](https://github.com/ikouchiha47/graveyard/tree/brainiac) — originally [`brainiac`](https://github.com/ikouchiha47/brainiac)
+- [`scratchpad`](https://github.com/ikouchiha47/graveyard/tree/scratchpad) — originally [`scratchpad`](https://github.com/ikouchiha47/scratchpad)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
