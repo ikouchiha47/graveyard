@@ -30,6 +30,7 @@ git log                                # real history, real dates
 - [`simple-express-mongo-passport`](https://github.com/ikouchiha47/graveyard/tree/simple-express-mongo-passport) — originally [`simple-express-mongo-passport`](https://github.com/ikouchiha47/simple-express-mongo-passport)
 - [`location-share-web-app`](https://github.com/ikouchiha47/graveyard/tree/location-share-web-app) — originally [`location-share-web-app`](https://github.com/ikouchiha47/location-share-web-app)
 - [`angular-dropdown`](https://github.com/ikouchiha47/graveyard/tree/angular-dropdown) — originally [`angular-dropdown`](https://github.com/ikouchiha47/angular-dropdown)
+- [`nodejs-net-chat`](https://github.com/ikouchiha47/graveyard/tree/nodejs-net-chat) — originally [`nodejs-net-chat`](https://github.com/ikouchiha47/nodejs-net-chat)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
