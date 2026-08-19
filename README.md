@@ -49,6 +49,7 @@ git log                                # real history, real dates
 - [`fbrowser`](https://github.com/ikouchiha47/graveyard/tree/fbrowser) — originally [`fbrowser`](https://github.com/ikouchiha47/fbrowser)
 - [`knockknock`](https://github.com/ikouchiha47/graveyard/tree/knockknock) — originally [`knockknock`](https://github.com/ikouchiha47/knockknock)
 - [`remux`](https://github.com/ikouchiha47/graveyard/tree/remux) — originally [`remux`](https://github.com/ikouchiha47/remux)
+- [`music-recommender`](https://github.com/ikouchiha47/graveyard/tree/music-recommender) — originally [`music-recommender`](https://github.com/ikouchiha47/music-recommender)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
