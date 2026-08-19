@@ -28,6 +28,7 @@ git log                                # real history, real dates
 - [`playlist-graphql`](https://github.com/ikouchiha47/graveyard/tree/playlist-graphql) — originally [`playlist-graphql`](https://github.com/ikouchiha47/playlist-graphql)
 - [`hackernews`](https://github.com/ikouchiha47/graveyard/tree/hackernews) — originally [`hackernews`](https://github.com/ikouchiha47/hackernews)
 - [`simple-express-mongo-passport`](https://github.com/ikouchiha47/graveyard/tree/simple-express-mongo-passport) — originally [`simple-express-mongo-passport`](https://github.com/ikouchiha47/simple-express-mongo-passport)
+- [`location-share-web-app`](https://github.com/ikouchiha47/graveyard/tree/location-share-web-app) — originally [`location-share-web-app`](https://github.com/ikouchiha47/location-share-web-app)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
