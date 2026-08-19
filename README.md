@@ -41,6 +41,7 @@ git log                                # real history, real dates
 - [`pdfsj`](https://github.com/ikouchiha47/graveyard/tree/pdfsj) — originally [`pdfsj`](https://github.com/ikouchiha47/pdfsj)
 - [`spell-checker`](https://github.com/ikouchiha47/graveyard/tree/spell-checker) — originally [`spell-checker`](https://github.com/ikouchiha47/spell-checker)
 - [`logger`](https://github.com/ikouchiha47/graveyard/tree/logger) — originally [`logger`](https://github.com/ikouchiha47/logger)
+- [`curelife`](https://github.com/ikouchiha47/graveyard/tree/curelife) — originally [`curelife`](https://github.com/ikouchiha47/curelife)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
