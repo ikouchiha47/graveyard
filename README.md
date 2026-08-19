@@ -20,6 +20,7 @@ git log                                # real history, real dates
 - [`chathall`](https://github.com/ikouchiha47/graveyard/tree/chathall) — originally [`chathall`](https://github.com/ikouchiha47/chathall)
 - [`queryCreator`](https://github.com/ikouchiha47/graveyard/tree/queryCreator) — originally [`queryCreator`](https://github.com/ikouchiha47/queryCreator)
 - [`mdb`](https://github.com/ikouchiha47/graveyard/tree/mdb) — originally [`mdb`](https://github.com/ikouchiha47/mdb)
+- [`magazine-rails`](https://github.com/ikouchiha47/graveyard/tree/magazine-rails) — originally [`magazine-rails`](https://github.com/ikouchiha47/magazine-rails)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
