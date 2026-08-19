@@ -39,6 +39,7 @@ git log                                # real history, real dates
 - [`visualizers`](https://github.com/ikouchiha47/graveyard/tree/visualizers) — originally [`visualizers`](https://github.com/ikouchiha47/visualizers)
 - [`reviews`](https://github.com/ikouchiha47/graveyard/tree/reviews) — originally [`reviews`](https://github.com/ikouchiha47/reviews)
 - [`pdfsj`](https://github.com/ikouchiha47/graveyard/tree/pdfsj) — originally [`pdfsj`](https://github.com/ikouchiha47/pdfsj)
+- [`spell-checker`](https://github.com/ikouchiha47/graveyard/tree/spell-checker) — originally [`spell-checker`](https://github.com/ikouchiha47/spell-checker)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
