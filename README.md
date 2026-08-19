@@ -25,6 +25,7 @@ git log                                # real history, real dates
 - [`ds-algo`](https://github.com/ikouchiha47/graveyard/tree/ds-algo) — originally [`ds-algo`](https://github.com/ikouchiha47/ds-algo)
 - [`redux-react-blog`](https://github.com/ikouchiha47/graveyard/tree/redux-react-blog) — originally [`redux-react-blog`](https://github.com/ikouchiha47/redux-react-blog)
 - [`switcher`](https://github.com/ikouchiha47/graveyard/tree/switcher) — originally [`switcher`](https://github.com/ikouchiha47/switcher)
+- [`playlist-graphql`](https://github.com/ikouchiha47/graveyard/tree/playlist-graphql) — originally [`playlist-graphql`](https://github.com/ikouchiha47/playlist-graphql)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
