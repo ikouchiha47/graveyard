@@ -17,6 +17,7 @@ git log                                # real history, real dates
 
 <!-- ARCHIVE_INDEX_START -->
 - [`newsfeed`](https://github.com/ikouchiha47/graveyard/tree/newsfeed) — originally [`newsfeed`](https://github.com/ikouchiha47/newsfeed)
+- [`chathall`](https://github.com/ikouchiha47/graveyard/tree/chathall) — originally [`chathall`](https://github.com/ikouchiha47/chathall)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
