@@ -32,6 +32,7 @@ git log                                # real history, real dates
 - [`angular-dropdown`](https://github.com/ikouchiha47/graveyard/tree/angular-dropdown) — originally [`angular-dropdown`](https://github.com/ikouchiha47/angular-dropdown)
 - [`nodejs-net-chat`](https://github.com/ikouchiha47/graveyard/tree/nodejs-net-chat) — originally [`nodejs-net-chat`](https://github.com/ikouchiha47/nodejs-net-chat)
 - [`youtube-music`](https://github.com/ikouchiha47/graveyard/tree/youtube-music) — originally [`youtube-music`](https://github.com/ikouchiha47/youtube-music)
+- [`rdspec`](https://github.com/ikouchiha47/graveyard/tree/rdspec) — originally [`rdspec`](https://github.com/ikouchiha47/rdspec)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
