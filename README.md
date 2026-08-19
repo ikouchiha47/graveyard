@@ -23,6 +23,7 @@ git log                                # real history, real dates
 - [`magazine-rails`](https://github.com/ikouchiha47/graveyard/tree/magazine-rails) — originally [`magazine-rails`](https://github.com/ikouchiha47/magazine-rails)
 - [`ngAuth`](https://github.com/ikouchiha47/graveyard/tree/ngAuth) — originally [`ngAuth`](https://github.com/ikouchiha47/ngAuth)
 - [`ds-algo`](https://github.com/ikouchiha47/graveyard/tree/ds-algo) — originally [`ds-algo`](https://github.com/ikouchiha47/ds-algo)
+- [`redux-react-blog`](https://github.com/ikouchiha47/graveyard/tree/redux-react-blog) — originally [`redux-react-blog`](https://github.com/ikouchiha47/redux-react-blog)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
