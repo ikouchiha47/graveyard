@@ -16,6 +16,7 @@ git log                                # real history, real dates
 ## Archive index
 
 <!-- ARCHIVE_INDEX_START -->
+- [`newsfeed`](https://github.com/ikouchiha47/graveyard/tree/newsfeed) — originally [`newsfeed`](https://github.com/ikouchiha47/newsfeed)
 <!-- ARCHIVE_INDEX_END -->
 
 Migrated with [gh-graveyard-migrate](https://github.com/ikouchiha47/gh-graveyard-migrate).
