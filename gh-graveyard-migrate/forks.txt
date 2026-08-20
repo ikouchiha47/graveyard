@@ -1,0 +1,38 @@
+# untouched forks — safe to bulk-archive
+# double-checked separately: browser-logos, moor, AFL, Awesome-Linux-Software, Python
+# (each has 1-2 stars, unusual for an untouched fork — verify no original commits
+#  before archiving; remove from this list if you want to keep them visible instead)
+miaou
+Front-end-Developer-Interview-Questions
+Fio
+especser
+SO-ChatBot
+rxjs-training
+gulp-cheatsheet
+vertx-examples
+javascript
+java-design-patterns
+react-router-redux
+TinySearchEngine
+browser-logos
+vim-colors-paramount
+moor
+react-native-keychain
+Go
+Python
+cv-maker
+gocart
+Golang-Project-Structure
+go-advance-concurrency
+Awesome-Linux-Software
+firefox-csshacks
+startbootstrap-clean-blog-jekyll
+ivy
+zig-gtk4
+AFL
+the-algorithm
+zmk-for-keyboards
+claude-scientific-skills
+ESP32Marauder
+learnxinyminutes-docs
+applied-ml
